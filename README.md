@@ -1,7 +1,7 @@
 # 10-Image-Classification-using-CNN
 In this project we have used tensor flow datasets. The dataset which is being used by cifar10 which is having 10 different classes of images.
 ---
-Introduction to Deep Learning:
+# Introduction to Deep Learning:
 
 Deep Learning is a subfield of machine learning that deals with training artificial neural networks with multiple layers of interconnected nodes. These networks are designed to learn from large amounts of data and make predictions or decisions based on that data.
 
@@ -15,7 +15,7 @@ Despite its success, deep learning is still a rapidly evolving field, with many 
 
 ---
 
-Importance of deep learning:
+# Importance of deep learning:
 Deep learning is becoming increasingly important in various fields due to its ability to learn from large amounts of data and make accurate predictions. Here are some of the key reasons why deep learning is important:
 
 Improved accuracy: Deep learning algorithms have been shown to achieve state-of-the-art performance on many tasks, such as image recognition, speech recognition, and natural language processing. This has led to significant improvements in accuracy and efficiency compared to traditional machine learning methods.
@@ -32,7 +32,7 @@ Overall, deep learning is an important field that has the potential to transform
 
 ---
 
-How do neural networks work?
+# How do neural networks work?
 Neural networks are a type of machine learning algorithm that are designed to simulate the behavior of the human brain. They consist of layers of interconnected nodes, also called artificial neurons, which receive input signals, process them, and produce output signals. The nodes are organized into layers, with each layer performing a different type of computation.
 
 The basic idea behind neural networks is to learn patterns in the data by adjusting the weights of the connections between the nodes. During training, the network is shown a set of inputs and corresponding outputs, and the weights are adjusted so that the network produces the correct outputs for those inputs. This process is repeated over many iterations until the network can accurately predict the outputs for new inputs.
@@ -55,7 +55,7 @@ In summary, neural networks work by processing input data through layers of inte
 
 ---
 
-Activation Functions:
+# Activation Functions:
 Activation functions are an important component of neural networks as they introduce non-linearity into the system and allow neural networks to learn more complex patterns in the data. Activation functions are applied to the output of each node in a neural network to produce the final output.
 
 Here are some commonly used activation functions:
@@ -74,7 +74,7 @@ Choosing the right activation function for a neural network depends on the speci
 
 ---
 
-Back Propagation:
+# Back Propagation:
 Backpropagation is a widely used algorithm for training artificial neural networks. It is a supervised learning method that allows the network to learn from a set of labeled training examples by adjusting the weights of the connections between the nodes.
 
 Here is a simplified step-by-step explanation of how backpropagation works:
@@ -95,7 +95,7 @@ Backpropagation is a powerful algorithm for training neural networks and has bee
 
 ---
 
-Optimizers:
+# Optimizers:
 Optimizers are algorithms that are used to update the weights of a neural network during training in order to minimize the error or loss function. They adjust the learning rate and direction of weight updates to make the training process more efficient and effective. Here are some commonly used optimizers:
 
 Stochastic Gradient Descent (SGD): SGD is the most basic optimizer, where the weights are updated in the direction of the negative gradient of the loss function. It takes small steps in the direction of the gradient, making it computationally efficient and well-suited for large datasets.
@@ -112,7 +112,7 @@ Choosing the right optimizer for a neural network depends on the specific proble
 
 ---
 
-Packages used for deep learning:
+# Packages used for deep learning:
 There are several open-source libraries and packages that are commonly used for deep learning:
 
 TensorFlow: Developed by Google, TensorFlow is an open-source library for building and training machine learning models, including deep neural networks.
@@ -133,7 +133,7 @@ These packages provide a range of functionalities for building and training neur
 
 ---
 
-What is Image recognition?
+# What is Image recognition?
 Image recognition, also known as image classification, is a subfield of computer vision that involves identifying and categorizing objects or patterns within digital images. It is a type of machine learning that uses deep neural networks to analyze and classify images based on their features and characteristics.
 
 The process of image recognition typically involves the following steps:
