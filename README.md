@@ -1,3 +1,19 @@
+# CIFAR-10 Image Classification
+
+A learning notebook exploring convolutional neural networks with TensorFlow and the ten-class CIFAR-10 image dataset.
+
+## Usage
+
+Open `SampleCode/cnn_basic_understanding.ipynb` in Jupyter or Google Colab. Review notebook cells before running them. The notebook uses TensorFlow/Keras and CIFAR-10; the initial dataset download needs internet access. Full training was not executed during the repository cleanup, and no accuracy or performance claim is verified.
+
+## License
+
+The repository includes a Apache-2.0 license. See the checked-in license file and retain existing attribution.
+
+---
+
+## Original learning material
+
 # 10-Image-Classification-using-CNN
 In this project we have used tensor flow datasets. The dataset which is being used by cifar10 which is having 10 different classes of images.
 ---
